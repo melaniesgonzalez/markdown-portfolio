@@ -1,5 +1,5 @@
-# Favorite Foods (in no particular order)
-* Mac & Cheese
+# Favorite Foods (in no particular order) :heart:
+* Mac & Cheese 
 * Pizza
 * Hot Wings (Flappers only)
 * Fruit
